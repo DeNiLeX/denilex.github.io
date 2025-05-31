@@ -1,0 +1,15 @@
+Versión MapifiX v1.0.0
+
+Bugs encontrados: 
+
+Al momento de editar o eliminar las coordenadas de algún proveedor y al realizar el cambio se percata que el radio o circunferencia del perímetro no desaparece de la ubicación anterior, desaparece el marcador pero no el radio, también al momento de realizar una búsqueda por medio del buscador que se integro al mapa, al momento de encontrar el resultado aparece el marcador sin embargo permanece y no desaparece, tengo que ajustar eso para que el marcado desaparezca después de unos 10 segundos y resolver también el problema del radio o perímetro al momento de editar o eliminar a cualquier proveedor 
+
+Siguen habiendo problemas menores respecto a la interfaz visual, hay que alinear los botones por ejemplo el de búsqueda, acercar, alejar, y para centrar el país, //son cosas menores que no afectan el funcionamiento
+
+
+Versión MapifiX v2.0.0
+Se corrigieron los bugs anteriores, los detalles estéticos permanecen, sin embargo en la nueva versión se lanzara el agregado "LEYENDA" que servirá para distinguir cada color dentro del mapa. 
+
+Versión MapifiX v2.1.1
+
+Se lanzo el modo Leyenda, para que podamos diferenciar entre los diferentes colores a seleccionar al momento de registrar o editar en el programa, se corrigió la funcionalidad de mostrar ocultos, ahora pedirá contraseña por cada proveedor que se quiera mostrar nuevamente, se mejoro todo el archivo CSS para que se pueda ver en dispositivos móviles de una mejor manera, se agrego la opción de ubicar aun estando el proveedor oculto para mejorar la precisión, correcciones de botones, estilo mas minimalista.
